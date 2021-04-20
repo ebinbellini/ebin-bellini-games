@@ -1,0 +1,22 @@
+
+.knaker-button {
+    background: linear-gradient()
+}
+
+.card img {
+    margin: 0 !important;
+    width: 100%;
+}
+
+.card {
+    max-width: 600px !important;
+}
+
+p {
+    display: inline-block;
+    max-width: 500px;
+}
+
+body .button {
+    border-radius: 0;
+}
