@@ -16,7 +16,3 @@ p {
     display: inline-block;
     max-width: 500px;
 }
-
-body .button {
-    border-radius: 0;
-}
